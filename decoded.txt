@@ -1,0 +1,4 @@
+Dear user,
+This is an example of a raw file you can encrypt
+passwords: ##123456798
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
