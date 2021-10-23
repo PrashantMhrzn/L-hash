@@ -47,11 +47,11 @@ $ python3 Lhash.py -d encoded.txt
 File decrypted as decoded.txt
 ```
 Before:
-![alt text](./SS/1.png)
-![alt text](./SS/2.png)
+![alt text](https://github.com/PrashantMhrzn/L-hash/blob/main/SS/1.PNG)
+![alt text](https://github.com/PrashantMhrzn/L-hash/blob/main/SS/2.PNG)
 
 After:
-![alt text](./SS/3.png)
+![alt text](https://github.com/PrashantMhrzn/L-hash/blob/main/SS/3.PNG)
 
 
 ## Liscense
