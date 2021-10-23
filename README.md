@@ -26,7 +26,7 @@ $ python3 Lhash.py -d encoded.txt
 ```
 ## Usage
 ```
-$python3 Lhash.py [-e for encrypt/-d for decrypt] [file name]
+$ python3 Lhash.py [-e for encrypt/-d for decrypt] [file name]
 
 $ python3 Lhash.py -h
 usage: Lhash.py [-h] [-e] [-d]
@@ -39,7 +39,7 @@ optional arguments:
   -d , --decrypt_file   file you want to decrypt
  
 ```
-##Example
+## Example
 ```
 $ python3 Lhash.py -e raw.txt    
 File encrypted as encoded.txt
